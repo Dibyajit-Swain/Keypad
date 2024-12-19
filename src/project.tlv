@@ -2,7 +2,7 @@
 \m5
    use(m5-1.0)
    
-     
+   
    // ########################################################
    // #                                                      #
    // #  Empty template for Tiny Tapeout Makerchip Projects  #
@@ -166,6 +166,3 @@ module m5_user_module_name (
 \SV
 endmodule
 
-
-\SV
-endmodule
